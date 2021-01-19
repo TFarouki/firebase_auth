@@ -141,7 +141,7 @@ class _LoginState extends State<Login> {
       ],
     );
     return Scaffold(
-      backgroundColor: Color(0xff8c52ff),
+      backgroundColor: Color(0xff34568B),
       body: Form(
         key : _formKey,
         child: SingleChildScrollView(

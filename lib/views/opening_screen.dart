@@ -61,7 +61,7 @@ class OpeningView extends StatelessWidget {
       ],
     );
     return Scaffold(
-        backgroundColor: Color(0xff8c52ff),
+        backgroundColor: Color(0xff34568B),
         body:Padding(
             padding: EdgeInsets.fromLTRB(30,70,30,70),
             child:Column(
